@@ -1,0 +1,26 @@
+{
+  "name": "vvpvvp",
+  "version": "0.0.1",
+  "description": "在给定的范围内返回一个随意值",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvpvvp/vvpvvp.git"
+  },
+  "keywords": [
+    "random",
+    "number"
+  ],
+  "author": {
+    "name": "vvpvvp"
+  },
+  "license": "The MIT License",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/vvpvvp/vvpvvp/issues"
+  },
+  "scripts": {
+  },
+  "homepage": "https://github.com/vvpvvp/vvpvvp",
+  "readmeFilename": "README.md"
+}
