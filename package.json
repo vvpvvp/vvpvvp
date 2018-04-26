@@ -1,6 +1,6 @@
 {
   "name": "vvpvvp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "在给定的范围内返回一个随意值",
   "main": "index.js",
   "repository": {
@@ -21,6 +21,6 @@
   },
   "scripts": {
   },
-  "homepage": "https://github.com/vvpvvp/vvpvvp",
+  "homepage": "https://vvpvvp.github.io/vvpvvp/index.html",
   "readmeFilename": "README.md"
 }
